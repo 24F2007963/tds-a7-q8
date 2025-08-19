@@ -1,6 +1,6 @@
 # mrr_analysis.py
 # Author: Data Analyst using Jules (ChatGPT Codex)
-# Email: 24f2007963@ds.study.iitm.ac.in
+# Email : 24f2007963@ds.study.iitm.ac.in
 
 import matplotlib.pyplot as plt
 import pandas as pd
